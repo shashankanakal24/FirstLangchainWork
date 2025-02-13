@@ -49,7 +49,8 @@ GOOGLE_API_KEY=your_google_api_key_here
 HUGGINGFACE_API_KEY=your_huggingface_api_key_here
 ```
 
-## Run the script:
+## ▶️ Run the Script  
+
 ```plaintext
 python main.py
 ```
