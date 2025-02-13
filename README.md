@@ -24,7 +24,8 @@ FirstLangchainWork/
 │── README.md                   # Project documentation
 
 ```
-##Create and Activate Virtual Environment
+## ⚙️ Create and Activate Virtual Environment  
+
 # Windows  
 ```plaintext
 python -m venv venv  
