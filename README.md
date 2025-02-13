@@ -23,26 +23,32 @@ FirstLangchainWork/
 │── requirements.txt            # Dependencies
 │── README.md                   # Project documentation
 
-
+```
 ##Create and Activate Virtual Environment
 # Windows  
+```plaintext
 python -m venv venv  
 venv\Scripts\activate  
+```
 
 # macOS/Linux  
+```plaintext
 python3 -m venv venv  
-source venv/bin/activate 
+source venv/bin/activate
+```
 
 ##  Install Dependencies
+```plaintext
 pip install -r requirements.txt
+```
 
-##Set Up Environment Variables
+## Set Up Environment Variables
+```plaintext
 GOOGLE_API_KEY=your_google_api_key_here
 HUGGINGFACE_API_KEY=your_huggingface_api_key_here
+```
 
-## Usage
-from langchain.chat_models import ChatHuggingFace
-chat_model = ChatHuggingFace(model_name="TinyLlama/TinyLlama-1.1B-Chat-v1.0", api_key="your_huggingface_api_key_here")
-
-###Run the script:
+## Run the script:
+```plaintext
 python main.py
+```
