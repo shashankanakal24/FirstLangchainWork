@@ -14,6 +14,7 @@ This repository demonstrates **LangChain** integration with **Google Gemini** an
 ---
 
 ## 📂 Project Structure  
+```plaintext
 FirstLangchainWork/
 │── venv/                     # Virtual environment (not tracked in Git)
 │── .gitignore                 # Ignores venv and .env files
@@ -21,6 +22,7 @@ FirstLangchainWork/
 │── main.py                    # Main script
 │── requirements.txt            # Dependencies
 │── README.md                   # Project documentation
+
 
 ##Create and Activate Virtual Environment
 # Windows  
